@@ -65,3 +65,10 @@ ul{
 .back{
     width: 100%!important;  
 }
+
+.footer{
+    
+    display: block;
+    height: 100px;
+    width: 100%;
+}
