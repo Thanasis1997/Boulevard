@@ -1,0 +1,44 @@
+.logo{
+    background-image: url(E33BD9CA-E199-4141-A9B3-931DBEC7DB77.jpg);
+    background-size: cover;
+    height: 150px;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-left: -23px !important;
+}
+
+
+body{
+    background-color: #0A4A39!important;
+}
+
+.btns{
+    cursor: pointer;
+}
+.Drinks, .Menu, .ig, .fb{
+    color: White;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+
+    background-color: #dba866;
+}
+
+.ig{
+    background-color: red ;
+}
+
+.fb{
+    background-color: blueviolet;
+}
+
+a{
+    text-decoration: none;
+    color: white!important;
+    
+}
+a:hover{
+    text-decoration: none!important;
+
+
+}
