@@ -48,3 +48,7 @@ a:hover{
 .Drinks{
     margin-top: 10px;
 }
+
+button a{
+    width: 100%!important;
+}
