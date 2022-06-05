@@ -37,6 +37,7 @@ body{
 a{
     text-decoration: none;
     color: white!important;
+    text-align: center;
     
 }
 a:hover{
@@ -62,5 +63,5 @@ ul{
     color: #dba866;
 }
 .back{
-    width: 100%!important;
+    width: 100%!important;  
 }
