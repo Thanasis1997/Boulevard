@@ -1,5 +1,7 @@
-function redir(){
-        window.location.href = "drinks.html";
-};
+$(".Drinks").on("click", function(){
+    window.location.href = "drinks.html";
+
+
+});
 
    
