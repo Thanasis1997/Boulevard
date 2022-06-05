@@ -52,7 +52,7 @@ a:hover{
 
 button a{
     display: block;
-    width: 95px!important;
+    width: 100%!important;
 }
 
 li{
