@@ -23,6 +23,7 @@ body{
     border-radius: 10px;
     cursor: pointer;
     background-color: #dba866;
+
 }
 
 .ig{
@@ -42,4 +43,8 @@ a:hover{
     text-decoration: none!important;
 
 
+}
+
+.Drinks{
+    margin-top: 10px;
 }
