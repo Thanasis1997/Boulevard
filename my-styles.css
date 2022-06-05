@@ -1,7 +1,7 @@
 div.logo{
     background-image: url(E33BD9CA-E199-4141-A9B3-931DBEC7DB77.jpg);
-    background-size: contain;
-    height: 131px;
+    background-size: cover;
+    height: 160px;
     background-repeat: no-repeat;
     width: 100%!important;
     margin-bottom: 20px!important;
