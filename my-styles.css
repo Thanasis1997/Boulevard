@@ -1,10 +1,11 @@
-.logo{
+div.logo{
     background-image: url(E33BD9CA-E199-4141-A9B3-931DBEC7DB77.jpg);
     background-size: cover;
     height: 150px;
     background-repeat: no-repeat;
-    width: 100%;
-    margin-left: -23px !important;
+    width: 100%!important;
+    margin-bottom: 20px!important;
+    
 }
 
 
@@ -20,7 +21,7 @@ body{
     width: 100%;
     border: none;
     border-radius: 10px;
-
+    cursor: pointer;
     background-color: #dba866;
 }
 
