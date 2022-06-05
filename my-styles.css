@@ -50,5 +50,14 @@ a:hover{
 }
 
 button a{
-    width: 100%!important;
+    display: block;
+    width: 95px!important;
+}
+
+li{
+    color: white;
+}
+
+ul{
+    color: #dba866;
 }
