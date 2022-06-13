@@ -15,12 +15,10 @@ body{
 
 .btns{
     cursor: pointer;
-    right: 30px!important;
+    right: 43px!important;
    
 }
-button{
-    width: 200px!important;
-}
+
 
 .Drinks, .Menu, .ig, .fb{
     color: White;
