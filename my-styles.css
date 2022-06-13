@@ -14,7 +14,9 @@ body{
 }
 
 .btns{
-   margin-bottom: 45px;
+   margin-bottom: 20px;
+   width: 100%!important;
+   margin-left: 70px;
 
 }
 
@@ -22,8 +24,7 @@ body{
 button{
     width: 192px!important;
     margin: auto!important;
-    position: absolute;
-    left: -35px;
+   
 }
 
 
