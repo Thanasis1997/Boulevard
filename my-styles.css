@@ -14,9 +14,7 @@ body{
 }
 
 .btns{
-    cursor: pointer;
-    width: 200px!important;
-    margin: auto!important;
+
    
 }
 button{
@@ -31,6 +29,7 @@ button{
     border: none;
     border-radius: 10px;
     background-color: #dba866;
+    cursor: pointer;
 
 }
 
