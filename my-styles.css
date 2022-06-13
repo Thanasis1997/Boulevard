@@ -15,9 +15,12 @@ body{
 
 .btns{
     cursor: pointer;
-    width: 100%!important;
+    width: 200px!important;
     margin: auto!important;
    
+}
+button{
+    width: 200px!important;
 }
 
 
