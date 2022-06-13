@@ -13,10 +13,7 @@ body{
     background-color: #0A4A39!important;
 }
 
-.btns{
 
-   
-}
 button{
     width: 200px!important;
 }
@@ -59,7 +56,7 @@ a:hover{
 
 button a{
     display: block;
-    width: 200px!important;
+    width: 192px!important;
     text-align: center!important;
     
 }
