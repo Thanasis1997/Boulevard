@@ -14,8 +14,7 @@ body{
 }
 
 .btns{
-    margin-left: auto!important;
-    margin-right: auto!important;
+   left: -52px!important;
 
 }
 
