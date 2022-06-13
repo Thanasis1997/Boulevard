@@ -15,7 +15,7 @@ body{
 
 .btns{
     cursor: pointer;
-    width: 100%!important;
+    width: 200px!important;
     margin: auto;
    
 }
@@ -59,7 +59,8 @@ a:hover{
 
 button a{
     display: block;
-    width: 200px!important
+    width: 200px!important;
+    
 }
 
 li{
