@@ -58,7 +58,7 @@ a:hover{
 button a{
     display: block;
     width: 200px!important;
-padding: 0;
+    text-align: center!important;
     
 }
 
