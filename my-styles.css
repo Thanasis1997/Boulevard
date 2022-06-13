@@ -16,11 +16,12 @@ body{
 .btns{
     cursor: pointer;
     width: 200px!important; 
+    margin-left: 180px!important;
+
    
 }
 button{
     width: 200px!important;
-    margin-left: 180px!important;
 }
 
 
@@ -60,6 +61,7 @@ a:hover{
 button a{
     display: block;
     width: 200px!important;
+
     
 }
 
