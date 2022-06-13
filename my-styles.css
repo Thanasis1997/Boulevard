@@ -15,7 +15,7 @@ body{
 
 .btns{
     cursor: pointer;
-    right: 45px;
+    right: 30px!important;
    
 }
 button{
@@ -77,3 +77,4 @@ ul{
     height: 100px;
     width: 100%;
 }
+
