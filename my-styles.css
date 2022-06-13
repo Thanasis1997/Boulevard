@@ -15,13 +15,18 @@ body{
 
 .btns{
     cursor: pointer;
+    right: 45px;
+   
 }
+button{
+    width: 200px!important;
+}
+
 .Drinks, .Menu, .ig, .fb{
     color: White;
-    width: 100%;
+    width: 200px!important;
     border: none;
     border-radius: 10px;
-    cursor: pointer;
     background-color: #dba866;
 
 }
