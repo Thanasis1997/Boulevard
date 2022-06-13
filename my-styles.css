@@ -14,13 +14,16 @@ body{
 }
 
 .btns{
-   left: -52px!important;
+   margin-bottom: 45px;
 
 }
 
 
 button{
     width: 192px!important;
+    margin: auto!important;
+    position: absolute;
+    left: -35px;
 }
 
 
