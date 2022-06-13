@@ -15,14 +15,18 @@ body{
 
 .btns{
     cursor: pointer;
-    left: 70px!important;
+    width: 100%!important;
+    margin: auto;
    
+}
+button{
+    width: 200px!important;
 }
 
 
 .Drinks, .Menu, .ig, .fb{
     color: White;
-    width: 200px!important;
+    width: 100%;
     border: none;
     border-radius: 10px;
     background-color: #dba866;
@@ -55,7 +59,7 @@ a:hover{
 
 button a{
     display: block;
-    width: 100%!important;
+    width: 200px!important
 }
 
 li{
