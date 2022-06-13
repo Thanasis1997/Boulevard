@@ -19,14 +19,12 @@ body{
     margin: auto!important;
    
 }
-button{
-    width: 200px!important;
-}
+
 
 
 .Drinks, .Menu, .ig, .fb{
     color: White;
-    width: 100%;
+    width: 200px!important;
     border: none;
     border-radius: 10px;
     background-color: #dba866;
