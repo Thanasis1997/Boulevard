@@ -14,33 +14,20 @@ body{
 }
 
 .btns{
-   margin-bottom: 20px;
-   width: 100%!important;
-   margin-left: 120px!important;
-
+    cursor: pointer;
 }
-
-
-button{
-    width: 192px!important;
-
-   
-}
-
-
-
 .Drinks, .Menu, .ig, .fb{
     color: White;
-    width: 192px!important;
+    width: 100%;
     border: none;
     border-radius: 10px;
-    background-color: #dba866;
     cursor: pointer;
+    background-color: #dba866;
 
 }
 
 .ig{
-    background-image: linear-gradient(to right ,#feda75 , #fa7e1e , #d62976 , #962fbf , #4f5bd5 );
+    background-image: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
 }
 
 .fb{
@@ -65,9 +52,7 @@ a:hover{
 
 button a{
     display: block;
-    width: 192px!important;
-    text-align: center!important;
-    
+    width: 100%!important;
 }
 
 li{
@@ -87,4 +72,3 @@ ul{
     height: 100px;
     width: 100%;
 }
-
