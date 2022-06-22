@@ -74,5 +74,6 @@ ul{
 }
 
 .menu-gif{
-    margin-top: 500px!important;
+    position: absolute;
+    top: 200px;
 }
