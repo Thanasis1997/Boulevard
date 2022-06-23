@@ -82,7 +82,7 @@
         }
 
     }
-
+    @media only screen and (min-width: 998px){
 body{
     background-image: url("boule-logo-big.png");
     background-repeat: repeat   ;
@@ -90,4 +90,5 @@ body{
 }
 button{
     display: none;
+}
 }
