@@ -1,78 +1,84 @@
-div.logo{
-    background-image: url(E33BD9CA-E199-4141-A9B3-931DBEC7DB77.jpg);
-    background-size: cover;
-    height: 160px;
-    background-repeat: no-repeat;
-    width: 100%!important;
-    margin-bottom: 20px!important;
+@media only screen and (max-width: 768px) {
     
-}
 
 
-body{
-    background-color: #0A4A39!important;
-}
-
-.btns{
-    cursor: pointer;
-}
-.Drinks, .Menu, .ig, .fb{
-    color: White;
-    width: 100%;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    background-color: #dba866;
-
-}
-
-.ig{
-    background-image: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-}
-
-.fb{
-    background-color: #036ee4;
-}
-
-a{
-    text-decoration: none;
-    color: white!important;
-    text-align: center;
-    
-}
-a:hover{
-    text-decoration: none!important;
+        div.logo{
+            background-image: url(E33BD9CA-E199-4141-A9B3-931DBEC7DB77.jpg);
+            background-size: cover;
+            height: 160px;
+            background-repeat: no-repeat;
+            width: 100%!important;
+            margin-bottom: 20px!important;
+            
+        }
 
 
-}
+        body{
+            background-color: #0A4A39!important;
+        }
 
-.Drinks{
-    margin-top: 10px;
-}
+        .btns{
+            cursor: pointer;
+        }
+        .Drinks, .Menu, .ig, .fb{
+            color: White;
+            width: 100%;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            background-color: #dba866;
 
-button a{
-    display: block;
-    width: 100%!important;
-}
+        }
 
-li{
-    color: white;
-}
+        .ig{
+            background-image: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+        }
 
-ul{
-    color: #dba866;
-}
-.back{
-    width: 100%!important;  
-}
+        .fb{
+            background-color: #036ee4;
+        }
 
-.footer{
-    
-    display: block;
-    height: 100px;
-    width: 100%;
-}
+        a{
+            text-decoration: none;
+            color: white!important;
+            text-align: center;
+            
+        }
+        a:hover{
+            text-decoration: none!important;
 
-.menu-gif{
-   padding-bottom: 20px;
-}
+
+        }
+
+        .Drinks{
+            margin-top: 10px;
+        }
+
+        button a{
+            display: block;
+            width: 100%!important;
+        }
+
+        li{
+            color: white;
+        }
+
+        ul{
+            color: #dba866;
+        }
+        .back{
+            width: 100%!important;  
+        }
+
+        .footer{
+            
+            display: block;
+            height: 100px;
+            width: 100%;
+        }
+
+        .menu-gif{
+        padding-bottom: 20px;
+        }
+
+    }
