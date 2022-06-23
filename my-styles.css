@@ -82,3 +82,12 @@
         }
 
     }
+
+body{
+    background-image: url("boule-logo-big.png");
+    background-repeat: repeat   ;
+    background-size: contain;
+}
+button{
+    display: none;
+}
