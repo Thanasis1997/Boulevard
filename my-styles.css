@@ -1,5 +1,3 @@
-@media only screen and (max-width: 768px) {
-    
 
 
         div.logo{
@@ -80,15 +78,3 @@
         .menu-gif{
         padding-bottom: 20px;
         }
-
-    }
-    @media only screen and (min-width: 998px){
-body{
-    background-image: url("boule-logo-big.png");
-    background-repeat: repeat   ;
-    background-size: contain;
-}
-button{
-    display: none;
-}
-}
